@@ -1,0 +1,5 @@
+Model: ResNet18 (Transfer Learning)
+Classes: ['BrownSpot', 'Healthy', 'Hispa', 'LeafBlast']
+Best Validation Accuracy: 52.38%
+Training samples: 1672
+Validation samples: 420

@@ -1,0 +1,15 @@
+CLASSIFICATION REPORT
+============================================================
+
+Overall Accuracy: 52.38%
+
+              precision    recall  f1-score   support
+
+   BrownSpot     0.7470    0.5905    0.6596       105
+     Healthy     0.5600    0.2667    0.3613       105
+       Hispa     0.4545    0.6667    0.5405       105
+   LeafBlast     0.4511    0.5714    0.5042       105
+
+    accuracy                         0.5238       420
+   macro avg     0.5532    0.5238    0.5164       420
+weighted avg     0.5532    0.5238    0.5164       420
